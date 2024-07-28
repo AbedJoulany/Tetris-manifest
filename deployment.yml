@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: abedjoulany/tetrisv1:latest
+        image: abedjoulany/tic-tac-toe-game:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
